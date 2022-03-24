@@ -18,7 +18,7 @@
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gwj0421})](https://solved.ac/{gwj0421})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={gwj0421})](https://solved.ac/{handle})
 
 - Type some Markdown on the left
 - See HTML in the right
