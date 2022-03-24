@@ -9,7 +9,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) <a href="mailto:gwj0421@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gwj0421 @ gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" width="170" height="28"/></a>
 
 ### ▎🏆  Achievement
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwj0421&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwj0421)](https://solved.ac/gwj0421/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwj0421&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwj0421)](https://solved.ac/gwj0421/)
 
 ### ▎📚   Education
 - B.S., Hanbat University, 2017 - present
