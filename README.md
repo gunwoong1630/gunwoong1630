@@ -14,7 +14,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwj0421)](https://github.com/anuraghazra/github-readme-stats)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gwj0421)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={gwj0421})](https://solved.ac/{gwj0421})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwj0421)](https://solved.ac/gwj0421/)
+
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
