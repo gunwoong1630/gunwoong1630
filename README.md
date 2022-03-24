@@ -25,6 +25,7 @@ AngularJS-powered HTML5 Markdown editor.
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{gwj0421})
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gwj0421})](https://solved.ac/{gwj0421})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwj0421)](https://solved.ac/gwj0421/)
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
