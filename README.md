@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=과제에%20미친%20대학생&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=백엔드개발자&fontSize=90&animation=twinkling)
 
 
 ## ▎💪  SKills
