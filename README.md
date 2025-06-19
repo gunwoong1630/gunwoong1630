@@ -17,32 +17,31 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwj0421)](https://solved.ac/gwj0421/)
 
-
 ## ▎프로젝트 (자세한 프로젝트 설명은 해당 프로젝트의 README 참고)
 
 ### 데브코스 ( gunwoong1630 )
 | 순번 | 프로젝트명 | 주요 언어 | 비고 | 주소 |
 | --- | --- | --- | --- | --- |
-| 1 | NBE5-7-1-Team08 | Java(Spring) |  카페 메뉴 관리 서비스 | [https://github.com/prgrms-be-devcourse/NBE5-7-1-Team08](https://github.com/prgrms-be-devcourse/NBE5-7-1-Team08) |
-| 2 | NBE5-7-2-Team06 | Java(Spring) | 휴가 관리 시스템 | [https://github.com/prgrms-be-devcourse/NBE5-7-2-Team06](https://github.com/prgrms-be-devcourse/NBE5-7-2-Team06) |
-| 3 | NBE5-7-3-Team06 | Kotlin & Java(Spring)  | 휴가 관리 시스템 마이그레이션 | [https://github.com/prgrms-be-devcourse/NBE5-7-3-Team06](https://github.com/prgrms-be-devcourse/NBE5-7-3-Team06) |
+| 1 | NBE5-7-1-Team08 | Java(Spring) |  카페 메뉴 관리 서비스 | [바로가기](https://github.com/prgrms-be-devcourse/NBE5-7-1-Team08) |
+| 2 | NBE5-7-2-Team06 | Java(Spring) | 휴가 관리 시스템 | [바로가기](https://github.com/prgrms-be-devcourse/NBE5-7-2-Team06) |
+| 3 | NBE5-7-3-Team06 | Kotlin & Java(Spring)  | 휴가 관리 시스템 마이그레이션 | [바로가기](https://github.com/prgrms-be-devcourse/NBE5-7-3-Team06) |
 
 ### 개인 토이 프로젝트
 | 순번 | 프로젝트명 | 마지막 업데이트 | 주요 언어 | 비고 | 주소 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | matching-job | 2024.12.09 | Java(Spring) | 일자리 매칭 서비스 | [https://github.com/gunwoong1630/matching-job](https://github.com/gunwoong1630/matching-job) |
-| 2 | WiseWordsScanner | 2024.07.01 | Java(Spring) | 텍스트 스캐닝 도구 | [https://github.com/gunwoong1630/WiseWordsScanner](https://github.com/gunwoong1630/WiseWordsScanner) |
-| 3 | ai-bell-maker | 2024.01.24 | Java(Spring) & Python(FastApi) | AI 벨소리 생성 서비스 | [https://github.com/gunwoong1630/ai-bell-maker](https://github.com/gunwoong1630/ai-bell-maker) |
-| 4 | ics-toy-projects | 2024.01.25 | Java(Spring) | 토이 프로젝트 모음 | [https://github.com/gunwoong1630/ics-toy-projects](https://github.com/gunwoong1630/ics-toy-projects) |
-| 5 | velog-export | 2025.04.19 | Java(Spring) | 블로그 내보내기 도구 | [https://github.com/gunwoong1630/velog-export](https://github.com/gunwoong1630/velog-export) |
+| 1 | matching-job | 2024.12.09 | Java(Spring) | 일자리 매칭 서비스 | [바로가기](https://github.com/gunwoong1630/matching-job) |
+| 2 | WiseWordsScanner | 2024.07.01 | Java(Spring) | 텍스트 스캐닝 도구 | [바로가기](https://github.com/gunwoong1630/WiseWordsScanner) |
+| 3 | ai-bell-maker | 2024.01.24 | Java(Spring) & Python(FastApi) | AI 벨소리 생성 서비스 | [바로가기](https://github.com/gunwoong1630/ai-bell-maker) |
+| 4 | ics-toy-projects | 2024.01.25 | Java(Spring) | 토이 프로젝트 모음 | [바로가기](https://github.com/gunwoong1630/ics-toy-projects) |
+| 5 | velog-export | 2025.04.19 | Java(Spring) | 블로그 내보내기 도구 | [바로가기](https://github.com/gunwoong1630/velog-export) |
 
 ### 학습 및 기타
 | 순번 | 프로젝트명 | 마지막 업데이트 | 주요 언어 | 비고 | 주소 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | practice | 2025.06.11 | Java | 연습 프로젝트(SQL, design pattern…) | [https://github.com/gunwoong1630/practice](https://github.com/gunwoong1630/practice) |
-| 2 | BaekJoon_and_Programmers | 2025.06.03 | Java | 알고리즘 문제 해결 | [https://github.com/gunwoong1630/BaekJoon_and_Programmers](https://github.com/gunwoong1630/BaekJoon_and_Programmers) |
-| 3 | gunwoong1630.github.io | 2025.04.11 | HTML | 개인 GitHub Pages | [https://github.com/gunwoong1630/gunwoong1630.github.io](https://github.com/gunwoong1630/gunwoong1630.github.io) |
-| 4 | gwj-spring-tools | 2024.12.17 | Java | 개인 Spring 도구 | [https://github.com/gunwoong1630/gwj-spring-tools](https://github.com/gunwoong1630/gwj-spring-tools) |
-| 5 | woowahan-tech-course | 2024.02.12 | Java | 우아한테크코스 관련 | [https://github.com/gunwoong1630/woowahan-tech-course](https://github.com/gunwoong1630/woowahan-tech-course) |
-| 6 | EffectiveJava | 2023.02.21 | Java | Effective Java 학습 | [https://github.com/gunwoong1630/EffectiveJava](https://github.com/gunwoong1630/EffectiveJava) |
-| 7 | COME-CAPSTONE22-icis | 2022.12.07 | Jupyter Notebook | 캡스톤 프로젝트 | [https://github.com/gunwoong1630/COME-CAPSTONE22-icis](https://github.com/gunwoong1630/COME-CAPSTONE22-icis) |
+| 1 | practice | 2025.06.11 | Java | 연습 프로젝트(SQL, design pattern…) | [바로가기](https://github.com/gunwoong1630/practice) |
+| 2 | BaekJoon_and_Programmers | 2025.06.03 | Java | 알고리즘 문제 해결 | [바로가기](https://github.com/gunwoong1630/BaekJoon_and_Programmers) |
+| 3 | gunwoong1630.github.io | 2025.04.11 | HTML | 개인 GitHub Pages | [바로가기](https://github.com/gunwoong1630/gunwoong1630.github.io) |
+| 4 | gwj-spring-tools | 2024.12.17 | Java | 개인 Spring 도구 | [바로가기](https://github.com/gunwoong1630/gwj-spring-tools) |
+| 5 | woowahan-tech-course | 2024.02.12 | Java | 우아한테크코스 관련 | [바로가기](https://github.com/gunwoong1630/woowahan-tech-course) |
+| 6 | EffectiveJava | 2023.02.21 | Java | Effective Java 학습 | [바로가기](https://github.com/gunwoong1630/EffectiveJava) |
+| 7 | COME-CAPSTONE22-icis | 2022.12.07 | Jupyter Notebook | 캡스톤 프로젝트 | [바로가기](https://github.com/gunwoong1630/COME-CAPSTONE22-icis) |
